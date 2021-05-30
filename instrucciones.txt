@@ -1,0 +1,4 @@
+INSTRUCCIONES DE EJECUCIÓN
+comando: py cliente.py IP Puerto
+
+Ej.: py cliente.py 10.2.126.2 19876
